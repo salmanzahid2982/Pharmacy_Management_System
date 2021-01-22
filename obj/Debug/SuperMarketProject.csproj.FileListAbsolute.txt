@@ -1,0 +1,30 @@
+D:\C# project management\WIndows Application in VIsual studio\SuperMarketProject\SuperMarketProject\bin\Debug\SuperMarketProject.exe.config
+D:\C# project management\WIndows Application in VIsual studio\SuperMarketProject\SuperMarketProject\bin\Debug\SuperMarketProject.exe
+D:\C# project management\WIndows Application in VIsual studio\SuperMarketProject\SuperMarketProject\bin\Debug\SuperMarketProject.pdb
+D:\C# project management\WIndows Application in VIsual studio\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.csprojAssemblyReference.cache
+D:\C# project management\WIndows Application in VIsual studio\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.Form1.resources
+D:\C# project management\WIndows Application in VIsual studio\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.Properties.Resources.resources
+D:\C# project management\WIndows Application in VIsual studio\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.csproj.GenerateResource.cache
+D:\C# project management\WIndows Application in VIsual studio\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.csproj.CoreCompileInputs.cache
+D:\C# project management\WIndows Application in VIsual studio\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.exe
+D:\C# project management\WIndows Application in VIsual studio\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.pdb
+D:\C# project management\WIndows Application in VIsual studio\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.Item.resources
+D:\C# project management\WIndows Application in VIsual studio\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.NewItem.resources
+D:\C# project management\WIndows Application in VIsual studio\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.Accounts.resources
+D:\C# project management\WIndows Application in VIsual studio\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.NewUser.resources
+D:\C# project management\WIndows Application in VIsual studio\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.Sales.resources
+D:\Backup Super Market Project\SuperMarketProject\SuperMarketProject\bin\Debug\SuperMarketProject.exe.config
+D:\Backup Super Market Project\SuperMarketProject\SuperMarketProject\bin\Debug\SuperMarketProject.exe
+D:\Backup Super Market Project\SuperMarketProject\SuperMarketProject\bin\Debug\SuperMarketProject.pdb
+D:\Backup Super Market Project\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.csprojAssemblyReference.cache
+D:\Backup Super Market Project\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.Form1.resources
+D:\Backup Super Market Project\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.Accounts.resources
+D:\Backup Super Market Project\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.Item.resources
+D:\Backup Super Market Project\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.NewItem.resources
+D:\Backup Super Market Project\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.NewUser.resources
+D:\Backup Super Market Project\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.Properties.Resources.resources
+D:\Backup Super Market Project\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.Sales.resources
+D:\Backup Super Market Project\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.csproj.GenerateResource.cache
+D:\Backup Super Market Project\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.csproj.CoreCompileInputs.cache
+D:\Backup Super Market Project\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.exe
+D:\Backup Super Market Project\SuperMarketProject\SuperMarketProject\obj\Debug\SuperMarketProject.pdb
